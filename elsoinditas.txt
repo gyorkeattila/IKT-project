@@ -1,1 +1,5 @@
+Hogyan inditsuk el először a botot?
+
+Elsősorban kell a számítógépünkre a Python program ami lehetővé teszi hogy felismerje a kódot a számítógépünk.
+
 
