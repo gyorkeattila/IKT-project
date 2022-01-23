@@ -1,6 +1,0 @@
-Hogyan inditsuk el először a botot?
-
-Elsősorban kell a számítógépünkre a Python program ami lehetővé teszi hogy felismerje a kódot a számítógépünk.
-
-A szerkeztő program létrehoz nekünk egy fájlt "fájlneve".py azzal kell elindítani a botot.
-
